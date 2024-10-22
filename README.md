@@ -11,7 +11,7 @@ subfinder -d target.com -silent | httpx -silent | extract
 ```
 
 after use 
-create folder random name and  in side folder files  text (comments.txt, headers.txt,href.txt,js.text,body.txt)
+After executing the command, a folder with a random name will be created containing several files. (comments.txt, headers.txt,href.txt,js.text,body.txt)
 
 use now
 ```
